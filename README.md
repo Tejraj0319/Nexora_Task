@@ -2,7 +2,7 @@
 
 Hey! This is my Nexora Shop project. It’s a basic e-commerce website where you can see products, add them to the cart, and do a mock checkout. Built with React for frontend and Node.js + Express + MongoDB for backend.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Features
 
@@ -13,7 +13,7 @@ Hey! This is my Nexora Shop project. It’s a basic e-commerce website where you
 * Checkout form with name and email (mock checkout)
 * Responsive design — works on desktop and mobile
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tech Stack
 
@@ -43,21 +43,21 @@ npm run dev
 
 Open browser: `http://localhost:5173`
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 ## Screenshots 
 
 Homepage: 
-![Homepage](frontend/screenshots/homepage.JPG)
+![Homepage](frontend/screenshot/home.JPG)
 
 Cart Page:
-![Cart](frontend/screenshots/cart.JPG)
+![Cart](frontend/screenshot/cart.JPG)
 
 Checkout Modal 1: 
-![Checkout1](frontend/screenshots/checkout1.JPG)
+![Checkout1](frontend/screenshot/checkout1.JPG)
 
 Checkout Modal 2:
-![Checkout2](frontend/screenshots/checkout2.JPG)
+![Checkout2](frontend/screenshot/checkout2.JPG)
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 ## Author 
 Rajesh Patil
