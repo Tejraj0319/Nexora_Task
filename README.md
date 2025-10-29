@@ -44,6 +44,20 @@ npm run dev
 Open browser: `http://localhost:5173`
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Screenshots 
+
+Homepage: 
+![Homepage](frontend/screenshots/homepage.JPG)
+
+Cart Page:
+![Cart](frontend/screenshots/cart.JPG)
+
+Checkout Modal 1: 
+![Checkout1](frontend/screenshots/checkout1.JPG)
+
+Checkout Modal 2:
+![Checkout2](frontend/screenshots/checkout2.JPG)
+
 
 ## Author 
 Rajesh Patil
